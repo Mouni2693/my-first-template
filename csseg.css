@@ -1,0 +1,30 @@
+       a{
+			text-decoration: none;
+			color: white;
+			font-family: sans-serif;
+			margin-left: 1.5%;
+            padding: .8% 0%;
+		}
+		.search
+            margin-left: 14%;
+            width: 30%;
+            padding: .7% 1%;
+            background-color: rgba(128, 128, 128, 0.4);
+            border-width: 4px;
+            border-style: none;
+ color: white;
+}
+	
+	a:hover{
+			background-color: grey;
+		}
+		.nav{
+			background-color: black;
+			color: white;
+			padding: .4% 0%;
+			position: fixed;
+			width: 100%;
+		}
+		.first-image{
+			margin-top:3% ;
+		}
